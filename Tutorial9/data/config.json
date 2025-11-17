@@ -1,0 +1,9 @@
+{
+    "setting1": true,
+    "setting2": "value2",
+    "setting3": 10,
+    "nestedSetting": {
+        "subSetting1": [1, 2, 3],
+        "subSetting2": "subValue"
+    }
+}
